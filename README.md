@@ -3,6 +3,8 @@
 
 Downloads older overlay files for steam to fix Gamesense injection. Running will automatically (un)install the fix.
 
+Download overlayswap.py to use.
+
 Usage:
 Place in Steam's root directory, run. 
 
