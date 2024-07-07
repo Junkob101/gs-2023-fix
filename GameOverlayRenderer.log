@@ -1,0 +1,128 @@
+Fri Feb 23 22:30:03 2024 UTC - Current process: cs2.exe
+Fri Feb 23 22:30:03 2024 UTC - Module file name: D:\steam\gameoverlayrenderer64.dll
+Fri Feb 23 22:30:03 2024 UTC - GameID = 730, OverlayGameID = 730
+Fri Feb 23 22:30:03 2024 UTC - System page size: 4096
+Fri Feb 23 22:30:03 2024 UTC - Failed loading shell32.dll, not hooking ShellExecute calls
+Fri Feb 23 22:30:03 2024 UTC - Hooking SetCursorPos, GetCursorPos, ShowCursor, SetCursor, and GetCursor
+Fri Feb 23 22:30:03 2024 UTC - Modules at GameOverlayRenderer.dll attach
+Fri Feb 23 22:30:03 2024 UTC - 01: cs2.exe - (00007FF68E750000 to 00007FF68EB81000)
+Fri Feb 23 22:30:03 2024 UTC - 02: ntdll.dll - (00007FFC0D4D0000 to 00007FFC0D6E7000)
+Fri Feb 23 22:30:03 2024 UTC - 03: KERNEL32.DLL - (00007FFC0C3B0000 to 00007FFC0C474000)
+Fri Feb 23 22:30:03 2024 UTC - 04: KERNELBASE.dll - (00007FFC0A810000 to 00007FFC0ABB6000)
+Fri Feb 23 22:30:03 2024 UTC - 05: USER32.dll - (00007FFC0B360000 to 00007FFC0B50E000)
+Fri Feb 23 22:30:03 2024 UTC - 06: win32u.dll - (00007FFC0AEF0000 to 00007FFC0AF16000)
+Fri Feb 23 22:30:03 2024 UTC - 07: GDI32.dll - (00007FFC0C550000 to 00007FFC0C579000)
+Fri Feb 23 22:30:03 2024 UTC - 08: gdi32full.dll - (00007FFC0AC80000 to 00007FFC0AD98000)
+Fri Feb 23 22:30:03 2024 UTC - 09: msvcp_win.dll - (00007FFC0ADA0000 to 00007FFC0AE3A000)
+Fri Feb 23 22:30:03 2024 UTC - 10: ucrtbase.dll - (00007FFC0AF20000 to 00007FFC0B031000)
+Fri Feb 23 22:30:03 2024 UTC - 11: IMM32.DLL - (00007FFC0D450000 to 00007FFC0D481000)
+Fri Feb 23 22:30:03 2024 UTC - 12: gameoverlayrenderer64.dll - (00007FFBD8460000 to 00007FFBD85EF000)
+Fri Feb 23 22:30:03 2024 UTC - 13: ADVAPI32.dll - (00007FFC0B8B0000 to 00007FFC0B963000)
+Fri Feb 23 22:30:03 2024 UTC - 14: msvcrt.dll - (00007FFC0C300000 to 00007FFC0C3A7000)
+Fri Feb 23 22:30:03 2024 UTC - 15: sechost.dll - (00007FFC0C580000 to 00007FFC0C628000)
+Fri Feb 23 22:30:03 2024 UTC - 16: bcrypt.dll - (00007FFC0AEC0000 to 00007FFC0AEE8000)
+Fri Feb 23 22:30:03 2024 UTC - 17: RPCRT4.dll - (00007FFC0D330000 to 00007FFC0D447000)
+Fri Feb 23 22:30:03 2024 UTC - 18: ole32.dll - (00007FFC0C6B0000 to 00007FFC0C850000)
+Fri Feb 23 22:30:03 2024 UTC - 19: combase.dll - (00007FFC0B520000 to 00007FFC0B8A9000)
+Fri Feb 23 22:30:03 2024 UTC - 20: OLEAUT32.dll - (00007FFC0B280000 to 00007FFC0B357000)
+Fri Feb 23 22:30:03 2024 UTC - 21: PSAPI.DLL - (00007FFC0B510000 to 00007FFC0B518000)
+Fri Feb 23 22:30:03 2024 UTC - 22: CFGMGR32.dll - (00007FFC0A480000 to 00007FFC0A4CE000)
+Fri Feb 23 22:30:03 2024 UTC - 23: WINMM.dll - (00007FFBFF190000 to 00007FFBFF1C4000)
+Fri Feb 23 22:30:03 2024 UTC - ----------------------------
+Fri Feb 23 22:30:07 2024 UTC - Registering HWND 00000000000A099C for device notifications
+Fri Feb 23 22:30:07 2024 UTC - Game is using dinput8, preparing to hook.
+Fri Feb 23 22:30:08 2024 UTC - CoCreateInstance hook created DirectInput8 interface 00000145242A6EB0
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputEnable Version 14
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputGetAudioDeviceIds Version 14
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputGetBatteryInformation Version 14
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputGetCapabilities Version 14
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputGetCapabilitiesEx Version 14
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputGetKeystroke Version 14
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputGetState Version 14
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputGetStateEx Version 14
+Fri Feb 23 22:30:08 2024 UTC - XInput Hooked XInputSetState Version 14
+Fri Feb 23 22:30:08 2024 UTC - Registering HWND 00000000000406D2 for device notifications
+Fri Feb 23 22:30:08 2024 UTC - CoCreateInstance hook created DirectInput8 interface 00000145242A6D90
+Fri Feb 23 22:30:08 2024 UTC - Game is using dxgi (dx10/dx11), preparing to hook.
+Fri Feb 23 22:30:08 2024 UTC - Game is using D3D9 or D3D9Ex, preparing to hook.
+Fri Feb 23 22:30:09 2024 UTC - hookCreateDXGIFactory called
+Fri Feb 23 22:30:09 2024 UTC - Hooking vtable for factory
+Fri Feb 23 22:30:09 2024 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Fri Feb 23 22:30:09 2024 UTC - hookDirect3DCreate9 called
+Fri Feb 23 22:30:12 2024 UTC - IWrapDXGIFactory::CreateSwapChain called
+Fri Feb 23 22:30:12 2024 UTC - Hooking vtable for swap chain
+Fri Feb 23 22:30:12 2024 UTC - Hooking vtable for swap chain1
+Fri Feb 23 22:30:12 2024 UTC - Hooking vtable for swap chain3
+Fri Feb 23 22:30:12 2024 UTC - Trying to detour d3d11 device
+Fri Feb 23 22:30:12 2024 UTC - Hooking vtable for device
+Fri Feb 23 22:30:12 2024 UTC - Tracking new device: 2c39c600
+Fri Feb 23 22:30:12 2024 UTC - Tracking new swap chain: 2c6a9800 (with device: 2c39c600)
+Fri Feb 23 22:30:12 2024 UTC - Creating D3D11 renderer
+Fri Feb 23 22:30:12 2024 UTC - Releasing all resources for device: 000001452C39C600
+Fri Feb 23 22:30:12 2024 UTC - Initializing Audio...
+Fri Feb 23 22:30:17 2024 UTC - IAudioClient_Initialize - SUCCEEDED
+Fri Feb 23 22:30:17 2024 UTC - Audio client initialized: 0x00000145470255A0
+Fri Feb 23 22:30:17 2024 UTC - Device:
+Fri Feb 23 22:30:17 2024 UTC - Audio client mix format:
+Fri Feb 23 22:30:17 2024 UTC - 	format: 65534
+Fri Feb 23 22:30:17 2024 UTC - 	channels: 8
+Fri Feb 23 22:30:17 2024 UTC - 	samples/sec: 48000
+Fri Feb 23 22:30:17 2024 UTC - 	bytes/sec: 1536000
+Fri Feb 23 22:30:17 2024 UTC - 	alignment: 32
+Fri Feb 23 22:30:17 2024 UTC - 	bits/sample: 32
+Fri Feb 23 22:30:17 2024 UTC - 	channel mask: 0x63f
+Fri Feb 23 22:30:17 2024 UTC - 	data format: {00000003-0000-0010-8000-00AA00389B71}
+Fri Feb 23 22:30:17 2024 UTC - Audio hooked
+Fri Feb 23 22:30:17 2024 UTC - Audio client started: 0x00000145470255A0, 1
+Fri Feb 23 22:30:30 2024 UTC - Disabling overlay for 2 seconds (18 seconds since last frame from ui process was seen)
+Fri Feb 23 22:30:32 2024 UTC - Disabling overlay for 2 seconds (20 seconds since last frame from ui process was seen)
+Fri Feb 23 22:30:53 2024 UTC - Releasing all resources for device: 000001452C39C600
+Fri Feb 23 22:30:53 2024 UTC - Trying to setup input hook...
+Fri Feb 23 22:30:53 2024 UTC - Set input hook...
+Fri Feb 23 22:30:58 2024 UTC - Releasing all resources for device: 000001452C39C600
+Fri Feb 23 22:30:58 2024 UTC - Detaching input hook...
+Fri Feb 23 22:30:58 2024 UTC - Trying to setup input hook...
+Fri Feb 23 22:30:58 2024 UTC - Set input hook...
+Fri Feb 23 22:30:58 2024 UTC - Releasing all resources for device: 000001452C39C600
+Fri Feb 23 22:30:58 2024 UTC - Detaching input hook...
+Fri Feb 23 22:30:59 2024 UTC - Trying to setup input hook...
+Fri Feb 23 22:30:59 2024 UTC - Set input hook...
+Fri Feb 23 22:31:01 2024 UTC - IAudioClient_Initialize - SUCCEEDED
+Fri Feb 23 22:31:01 2024 UTC - Audio client initialized: 0x000001469983ABE0
+Fri Feb 23 22:31:01 2024 UTC - Device:
+Fri Feb 23 22:31:01 2024 UTC - Audio client mix format:
+Fri Feb 23 22:31:01 2024 UTC - 	format: 65534
+Fri Feb 23 22:31:01 2024 UTC - 	channels: 4
+Fri Feb 23 22:31:01 2024 UTC - 	samples/sec: 48000
+Fri Feb 23 22:31:01 2024 UTC - 	bytes/sec: 768000
+Fri Feb 23 22:31:01 2024 UTC - 	alignment: 16
+Fri Feb 23 22:31:01 2024 UTC - 	bits/sample: 32
+Fri Feb 23 22:31:01 2024 UTC - 	channel mask: 0x0
+Fri Feb 23 22:31:01 2024 UTC - 	data format: {00000003-0000-0010-8000-00AA00389B71}
+Fri Feb 23 22:31:01 2024 UTC - Audio client started: 0x000001469983ABE0, 2
+Fri Feb 23 22:31:18 2024 UTC - Releasing all resources for device: 000001452C39C600
+Fri Feb 23 22:31:18 2024 UTC - Detaching input hook...
+Fri Feb 23 22:31:19 2024 UTC - Trying to setup input hook...
+Fri Feb 23 22:31:19 2024 UTC - Set input hook...
+Fri Feb 23 22:31:19 2024 UTC - Releasing all resources for device: 000001452C39C600
+Fri Feb 23 22:31:19 2024 UTC - Detaching input hook...
+Fri Feb 23 22:31:20 2024 UTC - Trying to setup input hook...
+Fri Feb 23 22:31:20 2024 UTC - Set input hook...
+Fri Feb 23 22:31:21 2024 UTC - IAudioClient_Initialize - SUCCEEDED
+Fri Feb 23 22:31:21 2024 UTC - Audio client initialized: 0x00000146586CC510
+Fri Feb 23 22:31:21 2024 UTC - Device:
+Fri Feb 23 22:31:21 2024 UTC - Audio client mix format:
+Fri Feb 23 22:31:21 2024 UTC - 	format: 65534
+Fri Feb 23 22:31:21 2024 UTC - 	channels: 4
+Fri Feb 23 22:31:21 2024 UTC - 	samples/sec: 48000
+Fri Feb 23 22:31:21 2024 UTC - 	bytes/sec: 768000
+Fri Feb 23 22:31:21 2024 UTC - 	alignment: 16
+Fri Feb 23 22:31:21 2024 UTC - 	bits/sample: 32
+Fri Feb 23 22:31:21 2024 UTC - 	channel mask: 0x0
+Fri Feb 23 22:31:21 2024 UTC - 	data format: {00000003-0000-0010-8000-00AA00389B71}
+Fri Feb 23 22:31:21 2024 UTC - Audio client started: 0x00000146586CC510, 3
+Fri Feb 23 22:33:02 2024 UTC - DeleteD3D11RendererForSwapChain called for: 000001452C6A9800
+Fri Feb 23 22:33:02 2024 UTC - Releasing all resources for device: 000001452C39C600
+Fri Feb 23 22:33:02 2024 UTC - Detaching input hook...
+Fri Feb 23 22:33:02 2024 UTC - DInput 00000145242A6EB0 deleting
+Fri Feb 23 22:33:02 2024 UTC - DInput 00000145242A6D90 deleting
